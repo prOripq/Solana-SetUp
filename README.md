@@ -1,5 +1,9 @@
 # Solana-SetUp
 
+# Solana Wallet adress
+FWPebZdQAmeZkvRZFers5VsEq7Aus9iCActUV6CwJcZ9
+# Project ID
+FUz9ae2vSNQ8vseJHeQDYj861BsVMQJrukVnesasB5C1
 
 #ScreenShots
 
