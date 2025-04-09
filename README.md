@@ -1,4 +1,5 @@
 # Solana-SetUp
+Done By Yussupov Zhangir
 
 # Solana Wallet adress
 FWPebZdQAmeZkvRZFers5VsEq7Aus9iCActUV6CwJcZ9
