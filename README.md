@@ -20,7 +20,7 @@ A decentralized application (dApp) built on the Solana blockchain.
 
 ### 1. Install Solana CLI
 
-# Solana Wallet adress
+# Solana Wallet address
 FWPebZdQAmeZkvRZFers5VsEq7Aus9iCActUV6CwJcZ9
 # Project ID
 FUz9ae2vSNQ8vseJHeQDYj861BsVMQJrukVnesasB5C1
