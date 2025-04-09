@@ -1,5 +1,24 @@
 # Solana-SetUp
+# 🚀 Solana Project
 Done By Yussupov Zhangir
+
+A decentralized application (dApp) built on the Solana blockchain.
+
+---
+
+## 🧰 Prerequisites
+
+- [Rust](https://www.rust-lang.org/tools/install)
+- [Solana CLI](https://docs.solana.com/cli/install-solana-cli-tools)
+- [Node.js & npm](https://nodejs.org/)
+- [Yarn](https://classic.yarnpkg.com/en/docs/install/)
+- [Anchor (optional)](https://www.anchor-lang.com/)
+
+---
+
+## ⚙️ Solana Setup
+
+### 1. Install Solana CLI
 
 # Solana Wallet adress
 FWPebZdQAmeZkvRZFers5VsEq7Aus9iCActUV6CwJcZ9
