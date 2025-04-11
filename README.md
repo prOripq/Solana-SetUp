@@ -1,6 +1,6 @@
 # Solana-SetUp
 # 🚀 Solana Project
-Done By Yussupov Zhangir
+Done By Yussupov Zhangir, Arlen Baybossin, Iskendir Khassangaly
 
 A decentralized application (dApp) built on the Solana blockchain.
 
